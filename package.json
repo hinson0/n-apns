@@ -1,0 +1,30 @@
+{
+  "name": "apns",
+  "version": "1.0.0",
+  "description": "apns powered by node/io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinson0/n-apns.git"
+  },
+  "keywords": [
+    "apns",
+    "node",
+    "io",
+    "node.js",
+    "io.js"
+  ],
+  "author": "Hinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hinson0/n-apns/issues"
+  },
+  "homepage": "https://github.com/hinson0/n-apns#readme",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "apn": "^1.7.4"
+  }
+}
